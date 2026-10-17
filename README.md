@@ -1,1 +1,0 @@
-# CST1510-assignment1
